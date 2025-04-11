@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135516471154",
+    "project_id": "agencysn-a133f",
+    "storage_bucket": "agencysn-a133f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135516471154:android:d570e7b3f9612e6c1867eb",
+        "android_client_info": {
+          "package_name": "com.agencysn.agencysn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs8CNbyzkCz40KfFK6ZIex0hLq8H8Vlw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
